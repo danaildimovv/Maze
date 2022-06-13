@@ -11,5 +11,4 @@ The main purpose of the game is to find the right strategy in order to win as ma
 
 # Run Instructions
 
-Navigate to the game directory and run "python playgame.py" in the console \n
-Enjoy !
+Navigate to the game directory and run "python playgame.py" in the console
